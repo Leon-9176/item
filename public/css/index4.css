@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+.major {
+  position: relative;
+  width: 899px;
+  height: 930px;
+  margin: auto;
+  background-color: rgba(196, 210, 221, 0.7);
+}
+.nav {
+  height: 50px;
+  border-top: 3px solid blueviolet;
+  border-bottom: 1px solid #000;
+}
+.nav a {
+  display: inline-block;
+  height: 50px;
+  text-decoration: none;
+  padding: 0 65px;
+  line-height: 50px;
+  font-size: 26px;
+  background-color: pink;
+}
+.hobby_box {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 900px;
+  height: 930px;
+}
+.hobby1 {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  width: 839px;
+  height: 250px;
+}
+.hobby1 li {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 400px;
+  height: 250px;
+}
+.hobby1 h3 {
+  position: absolute;
+  top: 18px;
+  left: 437px;
+  font-size: 26px;
+}
+.hobby2 {
+  position: absolute;
+  top: 310px;
+  left: 30px;
+  width: 839px;
+  height: 250px;
+}
+.hobby2 li {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 400px;
+  height: 250px;
+}
+.hobby2 h3 {
+  position: absolute;
+  top: 18px;
+  left: 437px;
+  font-size: 26px;
+}
+.hobby3 {
+  position: absolute;
+  top: 590px;
+  left: 30px;
+  width: 839px;
+  height: 250px;
+}
+.hobby3 li {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 400px;
+  height: 250px;
+}
+.hobby3 h3 {
+  position: absolute;
+  top: 18px;
+  left: 437px;
+  font-size: 26px;
+}
